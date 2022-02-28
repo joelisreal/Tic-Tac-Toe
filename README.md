@@ -1,4 +1,4 @@
-# My Personal Project: Tic-tac-toe
+# Personal Project: Tic-tac-toe
 
 ## Project Proposal
 
