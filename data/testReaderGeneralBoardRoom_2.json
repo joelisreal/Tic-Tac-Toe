@@ -1,0 +1,45 @@
+{
+    "name": "My board room",
+    "boards": [
+        {
+            "playerTurn": "X",
+            "gameBoard": [
+              [
+                {"token": "O"},
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ]
+            ]
+        },
+        {
+            "playerTurn": "O",
+            "gameBoard": [
+              [
+                {"token": "O"},
+                {"token":  "X"},
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ]
+            ]
+        }
+    ]
+}

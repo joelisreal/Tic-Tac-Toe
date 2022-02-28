@@ -1,0 +1,47 @@
+{
+    "name": "My board room",
+    "boards": [
+        {
+            "playerTurn": "O",
+            "gameBoard": [
+                [
+                    {"token": "∅"},
+                    {"token": "X"},
+                    {"token": "∅"}
+                ],
+                [
+                    {"token": "∅"},
+                    {"token": "∅"},
+                    {"token": "∅"}
+                ],
+                [
+                    {"token": "∅"},
+                    {"token": "∅"},
+                    {"token": "∅"}
+                ]
+            ],
+            "name": "BoardOne"
+        },
+        {
+            "playerTurn": "X",
+            "gameBoard": [
+                [
+                    {"token": "∅"},
+                    {"token": "∅"},
+                    {"token": "∅"}
+                ],
+                [
+                    {"token": "∅"},
+                    {"token": "∅"},
+                    {"token": "∅"}
+                ],
+                [
+                    {"token": "∅"},
+                    {"token": "∅"},
+                    {"token": "O"}
+                ]
+            ],
+            "name": "BoardTwo"
+        }
+    ]
+}
